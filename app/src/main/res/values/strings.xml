@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado02</string>
+    <string name="title_activity_ejercicio01">Ejercicio01</string>
+    <string name="title_activity_ejercicio02">Ejercicio02</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
